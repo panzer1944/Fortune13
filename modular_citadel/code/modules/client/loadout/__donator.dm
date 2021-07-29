@@ -37,4 +37,14 @@
 /datum/gear/donator/kits/cas
 	name = "Cas's Belongings"
 	path = /obj/item/storage/box/large/custom_kit/cas
-	ckeywhitelist = list("Killergryphyn")
+	ckeywhitelist = list("killergryphyn")
+
+/datum/gear/donator/kits/whiskey
+	name = "Whiskey's Belongings"
+	path = /obj/item/storage/box/large/custom_kit/whiskey
+	ckeywhitelist = list("whiskeyxl")
+
+/datum/gear/donator/kits/degan
+	name = "Degan's Belongings"
+	path = /obj/item/storage/box/large/custom_kit/degan
+	ckeywhitelist = list("kuusday")
